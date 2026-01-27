@@ -1,0 +1,5 @@
+/* Stylesheet by Ray Weigand */
+
+body {
+    font-family: Arial, sans-serif;
+}
