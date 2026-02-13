@@ -142,7 +142,7 @@ function debugAjax() {
         })
         .then(function(response){
 
-            // NOW the data exists
+            // Now the data exists
             myData = response;
 
             console.log("Inside callback (after data loads):", myData);
