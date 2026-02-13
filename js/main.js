@@ -1,5 +1,3 @@
-alert("main.js is running");
-
 // ===============================
 // Activity 4 – Debugged AJAX
 // ===============================
