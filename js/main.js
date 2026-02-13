@@ -43,7 +43,7 @@ function cities() {
   }
 
   // add the table to the div in index.html
-  document.querySelector("#myDiv").appendChild(table);
+  document.querySelector("#mydiv").appendChild(table);
 
   // add extra column + events
   addColumns(cityPop);
